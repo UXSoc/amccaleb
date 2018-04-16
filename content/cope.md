@@ -3,7 +3,7 @@ weight: 1
 title: "Cope | Alexis Collado"
 description: "I set a direction for the branding and identity of the product and crafted a functioning prototype ready for usability testing and development."
 nav_heading: "Cope Case Study"
-thumbnail: "cope.jpg"
+thumbnail: "image.png"
 case_short_title: "Cope iOS App"
 case_title: "Cope iOS App"
 case_subtitle: "Mobile App Design"

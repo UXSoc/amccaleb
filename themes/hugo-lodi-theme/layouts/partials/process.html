@@ -8,7 +8,6 @@
             {{ range $element := sort .Site.Data.process "weight" }}
             <div class="process-item">
                 <figure class="item-header">
-                    <img src="svg/{{ $element.icon }}">
                     <h3>{{ $element.title }}</h3>
                 </figure>
                 <p>{{ $element.description }}</p>

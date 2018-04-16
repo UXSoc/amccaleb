@@ -3,7 +3,7 @@ weight: 3
 title: "TEDxADMU | Alexis Collado"
 description: "I strategized, designed, and developed a simple landing page for TEDxADMU to set their application conversions to 66.8%."
 nav_heading: "TEDxADMU Case Study"
-thumbnail: "tedx.jpg"
+thumbnail: "image.png"
 case_short_title: "TEDxADMU Website"
 case_title: "TEDxADMU Website"
 case_subtitle: "Web Design"

@@ -29,13 +29,13 @@ googleAnalytics = ""
 
 [params.process]
     enable = true
-    title = "My Process"
-    subtitle = "Full Process Design"
+    title = "Services"
+    subtitle = ""
 
 [params.case_studies]
     enable = true
-    title = "Case Studies"
-    subtitle = "Selected Works"
+    title = "Designs"
+    subtitle = ""
 
 [params.footer]
-    enable = true
+    enable = false
