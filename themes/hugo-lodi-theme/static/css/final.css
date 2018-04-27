@@ -143,24 +143,18 @@ footer {
 }
 
 section {
-  padding-top: 70px;
-  padding-bottom: 70px;
   border-bottom: 1px solid #F0F0F0;
-  padding-left: 30px;
-  padding-right: 30px;
 }
 
 .hero {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  margin: 0 auto;
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
-  max-width: 1000px;
 }
 
 .process {
@@ -199,11 +193,13 @@ section {
 }
 
 .hero-left {
-  width: 400px;
+  width: 50%;
+  background-image: url("/img/image.png");
 }
 
 .hero-right {
-  width: 500px;
+  width: 50%;
+  padding: 50px 70px 50px 70px;
 }
 
 .hero-right p {
